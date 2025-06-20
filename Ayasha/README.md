@@ -1,4 +1,4 @@
 ### Basic Details
-1. Name: Divyanshu
-1. Company: C-DAC
-1. User Id: [dk-learner](https://github.com/dk-learner)
+1. Name: Ayesha Sen
+1. Trainee: CDAC
+1. User Id: [AishaSn](https://github.com/AishaSn)
