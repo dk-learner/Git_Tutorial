@@ -49,7 +49,7 @@ I also work at **C-DAC CINE**, where I’m engaged in AI-based projects, proposa
 
 > _"Discipline is the bridge between goals and accomplishment." – Jim Rohn_
 
-- ⏰ Wake at 3:00 AM – early morning coding in Python
+- ⏰ Wake at 4:00 AM – early morning coding in Python
 - 📚 Research & Readings till 7:30 AM
 - 🚸 Drop son at school & head to office
 - 🏢 Work on research & projects from 9:00 AM to 6:30 PM
