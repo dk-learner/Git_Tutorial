@@ -7,3 +7,13 @@
 
 ![alt text](image.png)
 
+### education details
+
+currently persuing PGDAI in cdac
+
+### certification details
+
+certified AWS developer
+
+
+
