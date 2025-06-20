@@ -10,4 +10,4 @@ Currently pursuing PGDAI in CDAC
 
 ### HOBBIES ###
 
-Swimming, tennis, cricket, weightlifting 
+Swimming, tennis, cricket, weightlifting, trading 
