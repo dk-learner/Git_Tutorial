@@ -11,3 +11,9 @@
 
 currently persuing PGDAI in cdac
 
+### certification details
+
+certified AWS developer
+
+
+
