@@ -13,6 +13,6 @@ Motivated and detail-oriented professional with a B.Tech in Mechanical Engineeri
 3. Schooling from Kendriya Vidyalaya No.1 AF Pathankot
 
 ### Working Experience
-1. Worked as Administration Associate at GNRC
-2. Worked as Assistant Executive Customer Support at iEnergizer IT Services Pvt. Ltd.
+1. Administration Associate at GNRC
+2. Assistant Executive Customer Support at iEnergizer IT Services Pvt. Ltd.
 
