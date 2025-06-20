@@ -1,7 +1,7 @@
 # 🧠 AI Projects by Parul Mishra
 
 This repository contains two deep learning projects focusing on classification and segmentation using Convolutional Neural Networks (CNN) and Mask R-CNN.
-
+Have a wonderful day!!
 ---
 
 ## 📁 Files Included
