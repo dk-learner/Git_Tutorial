@@ -1,0 +1,124 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background: #3aafa9;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #fc4a1a;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.btn:hover {
+    background-color: #e03e00;
+}
+
+/* Tutorial Section */
+.tutorial-section {
+    padding: 60px 0;
+    background-color: #ffffff;
+}
+
+.tutorial-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.tutorial-section p {
+    font-size: 1.1rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.tutorial-section ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.tutorial-section ul li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+/* Get Started Section */
+.get-started {
+    background-color: #f0f4f8;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.get-started h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.get-started p {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .btn {
+        padding: 12px 25px;
+    }
+}
