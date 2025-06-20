@@ -5,4 +5,6 @@
 3. User id: [aabhadamle](https://github.com/aabhadamle)
 
 ### Education Details
-Completed Graduation in Computer Engineering
+Currently Pursuing PG-DAI 
+B.Tech in Computer Engineering from Pune University
+
