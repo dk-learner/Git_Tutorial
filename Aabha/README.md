@@ -5,7 +5,6 @@
 3. User id: [aabhadamle](https://github.com/aabhadamle)
 
 ### Education Details
-Currently Pursuing PG-DAI 
+Currently Pursuing PG-DAI from CDAC
 
 B.Tech in Computer Engineering from Pune University
-
