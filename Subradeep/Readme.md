@@ -7,3 +7,8 @@
 ### Education Details 
 1. BTech in ECE - North Eastern Hill University
 2. HPC AI at CDAC CINE
+3. School -Henry Derozio Academy
+
+### Vehicle Details
+1. XPulse 200 4v
+2. Reg No - TRO1 AS 6529
