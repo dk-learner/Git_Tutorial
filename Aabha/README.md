@@ -6,5 +6,6 @@
 
 ### Education Details
 Currently Pursuing PG-DAI 
+
 B.Tech in Computer Engineering from Pune University
 
