@@ -1,8 +1,18 @@
 ### Basic Details
 1. Name: Rehan Ahmed Shaikh
-2. Trainer: CDAC Guwahati
-3. User ID: [RayRenaissance](https://github.com/RayRenaissance)
+2. Email: askrehan765@gmail.com
+3. user: [RayRenaissance](https://github.com/RayRenaissance)
+
+# Hobbies
+1. Cricket
+2. Swimming
 
 ### Education
-1. Currently pursuing a Post Graduate Diploma in AI from CDAC Guwahati.
-2. Completed B.E. in Mechanical Engineering from the University of Mumbai in 2023.
+# Post Graduation 
+1. Currently Pursuing PG Diploma in AI from CDAC Guwahati
+
+# Bachelors
+1. Completed B.E in Mechanical Engineering from University of Mumbai in 2023
+
+# Diploma 
+1. Completed Diploma from M.H. Saboo Siddik Polytechnic Mumbai in 2019.
