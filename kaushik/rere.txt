@@ -11,3 +11,6 @@ git stash [push [-p | --patch] [-S | --staged] [-k | --[no-]keep-index] [-q | --
 git stash save [-p | --patch] [-S | --staged] [-k | --[no-]keep-index] [-q | --quiet]
              [-u | --include-untracked] [-a | --all] [<message>]
 git stash clear
+
+##added some details here for kaushik branch
+
