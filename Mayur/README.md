@@ -15,7 +15,7 @@
 
 ## 📸 Sneak Peek
 
-![MasterChief](Mayur\thumb-1920-617270.jpg) 
+![MasterChief](https://github.com/dk-learner/Git_Tutorial/blob/9632668bf7de23e4a6a4c4ac59818176d8798000/Mayur/thumb-1920-617270.jpg) 
 
 ---
 
