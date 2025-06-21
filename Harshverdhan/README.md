@@ -80,3 +80,10 @@ To create **agentic AI systems** that can work collaboratively with humans and e
 > _"Be human in the age of AI."_
 
 ---
+<<<<<<< Updated upstream
+Now ai am stashing
+
+hello harsh
+=======
+>>>>>>> Stashed changes
+I am working on my working directory
