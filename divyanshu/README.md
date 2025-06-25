@@ -13,3 +13,28 @@
    ```
    docker logs <container_id> # Do docker ps for getting container ID
    ```
+3. Install with suggested plugings
+4. Create pipeline with basic steps (Compile, test, coverage)
+   ```
+   pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                sh "echo 'Build Success'"
+            }
+        }
+        stage('Tests') {
+            steps {
+                sh "echo 'Test run Success'"
+            }
+        }
+         stage('Coverage') {
+            steps {
+                sh "echo covered"
+            }
+        }
+    }
+}
+
+   ```
