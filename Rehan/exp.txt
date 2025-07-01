@@ -1,0 +1,7 @@
+docker run -d --name ray-postgres -e POSTGRES_PASSWORD=123 -e PGDATA=/var/lib/postgresql/data/pgdata -p 6045:6045 postgres
+
+
+
+
+docker run -p 5050:80 -e 'PGADMIN_DEFAULT_EMAIL=user@domain.com' -e 'PGADMIN_DEFAULT_PASSWORD=123' -d dpage/pgadmin4
+ 
