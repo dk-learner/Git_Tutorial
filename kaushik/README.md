@@ -62,5 +62,7 @@ Worked on several freelance projects
 worked as fullstack java developer in an mnc
 
 **Project Location:**  
+[project multi ai] (www.google.com)
 
 **How to Run:**
+download as docker image to run
