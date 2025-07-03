@@ -1,7 +1,7 @@
 **Rehan Ahmed Shaikh**  
 27, 1st floor, Mohammadi House, St. Martin Road, Near Bandra Police Station  
 Bandra West, Mumbai - 400050, Maharashtra  
-MOB: +91-9769867867 | ✉ askrehan765@gmail.com |  GitHub: github.com/RayRenaissance
+MOB: +91-9769867867 | [Gmail](askrehan765@gmail.com) |  [GitHub](github.com/RayRenaissance)
 
 ---
 
