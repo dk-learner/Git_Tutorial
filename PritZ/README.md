@@ -6,7 +6,7 @@
 
 ## Education Details ###
 
-Currently pursuing PGDAI in CDAC
+Currently pursuing PGDAI in CDAC Guwahati
 
 ### HOBBIES ###
 
