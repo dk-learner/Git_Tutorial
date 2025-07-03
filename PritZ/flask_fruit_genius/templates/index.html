@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fruit Type Predictor 🍓</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="bg-gradient"></div>
+    <div class="glass-container">
+        <h1>🍇 Fruit Type Predictor</h1>
+        <p class="subtitle">Enter the name of a fruit to discover its type</p>
+        <form method="POST">
+            <input type="text" name="fruit" placeholder="e.g. mango" required>
+            <div class="button-group">
+                <button type="submit">🔍 Predict</button>
+                <a href="/" class="home-button">🏠 Home</a>
+            </div>
+        </form>
+        {% if prediction %}
+            <div class="result-box">
+                {% if prediction == "None" %}
+                    <span class="no-match">⚠️ No matching fruit found.</span>
+                {% else %}
+                    <span class="match">✅ Type: <strong>{{ prediction }}</strong></span>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+# render.yaml
+services:
+  - type: web
+    name: fruit-type-predictor
+    runtime: python
+    buildCommand: "pip install -r requirements.txt && python train_model.py"
+    startCommand: "python app.py"
+    envVars:
+      - key: FLASK_ENV
+        value: production
